@@ -71,7 +71,6 @@ public List<Integer> inorderTraversal(TreeNode root) {
     }
 ```
 ---
-
 后序遍历：左->右->根
 ```java
  public void  loop(TreeNode node,List<Integer> res){
